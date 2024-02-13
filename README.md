@@ -1,4 +1,5 @@
 # Data-Analysis-Project-SQL-PowerBI
+Click here to access the project:
 
 https://analytics475425097.wordpress.com/2021/05/14/data-analyst-project-sales-management/
 
